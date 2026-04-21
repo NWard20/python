@@ -1,0 +1,9 @@
+Receipt - 2026-04-20 19:59:44
+. | .
+model: .
+storage: .
+color: .
+applecare: .
+charger: .
+Total: $999.00
+------------------
